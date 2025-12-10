@@ -1,0 +1,42 @@
+[
+  {
+    "code": "Anth1012",
+    "name": "Anthropology",
+    "credit": 3
+  },
+  {
+    "code": "MGMT1012",
+    "name": "Entrepreneurship",
+    "credit": 5
+  },
+  {
+    "code": "EmTe1012",
+    "name": "Introduction to Emerging Technologies",
+    "credit": 5
+  },
+  {
+    "code": "Math1041",
+    "name": "Applied Mathematics I",
+    "credit": 5
+  },
+  {
+    "code": "MCiE1012",
+    "name": "Moral and Civic Education",
+    "credit": 3
+  },
+  {
+    "code": "FLEn1012",
+    "name": "Communicative English Language Skills II",
+    "credit": 5
+  },
+  {
+    "code": "Hist1012",
+    "name": "History of Ethiopia and the Horn",
+    "credit": 5
+  },
+  {
+    "code": "CoSc1012",
+    "name": "Computer Programming I",
+    "credit": 5
+  }
+]
