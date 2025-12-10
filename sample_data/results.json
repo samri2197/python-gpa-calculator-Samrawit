@@ -1,0 +1,47 @@
+[
+  {
+    "student_id": "1700414",
+    "course_code": "Anth1012",
+    "grade": "A+"
+  },
+  {
+    "student_id": "1700414",
+    "course_code": "MGMT1012",
+    "grade": "A"
+  },
+  {
+    "student_id": "1700414",
+    "course_code": "EmTe1012",
+    "grade": "A"
+  },
+  {
+    "student_id": "1700414",
+    "course_code": "Math1041",
+    "grade": "A-"
+  },
+  {
+    "student_id": "1700414",
+    "course_code": "MCiE1012",
+    "grade": "A"
+  },
+  {
+    "student_id": "1700414",
+    "course_code": "FLEn1012",
+    "grade": "A+"
+  },
+  {
+    "student_id": "1700414",
+    "course_code": "Hist1012",
+    "grade": "A+"
+  },
+  {
+    "student_id": "1700414",
+    "course_code": "CoSc1012",
+    "grade": "A-"
+  },
+  {
+    "student_id": "1700599",
+    "course_code": "Anth1012",
+    "grade": "A-"
+  }
+]
